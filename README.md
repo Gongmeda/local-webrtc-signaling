@@ -20,3 +20,7 @@ https://github.com/Tencent/rapidjson/archive/version1.1.0.zip
 * C++17
 * Windows 10
 * Microsoft Visual Studio 2019 - 16.7.5
+
+## Reference
+* https://github.com/brkho/client-server-webrtc-example
+* https://github.com/llamerada-jp/webrtc-cpp-sample
